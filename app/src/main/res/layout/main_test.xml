@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2016. Vv <envyfan@qq.com><http://www.v-sounds.com/>
+  ~
+  ~ This file is part of AndroidReview (Android面试复习)
+  ~
+  ~ AndroidReview is free software: you can redistribute it and/or modify
+  ~  it under the terms of the GNU General Public License as published by
+  ~ the Free Software Foundation, either version 3 of the License, or
+  ~ (at your option) any later version.
+  ~
+  ~  AndroidReview is distributed in the hope that it will be useful,
+  ~  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~  GNU General Public License for more details.
+  ~
+  ~  You should have received a copy of the GNU General Public License
+  ~ along with AndroidReview.  If not, see <http://www.gnu.org/licenses/>.
+  -->
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/sv_main_test"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <LinearLayout
+        android:id="@+id/ly_main"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="14dp">
+
+
+        <TextView
+            android:id="@+id/tv_test_question"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:lineSpacingExtra="10dp"
+            android:textColor="@color/black"
+            android:textSize="19sp" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:layout_marginBottom="15dp"
+            android:layout_marginTop="15dp"
+            android:background="@color/list_divider" />
+
+        <LinearLayout
+            android:id="@+id/ly_select_answers"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" />
+
+        <RelativeLayout
+            android:id="@+id/rl_answer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/tv_label"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:text="@string/label_answer"
+                android:textColor="@color/red_900"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/tv_answer"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginTop="15dp"
+                android:layout_toRightOf="@id/tv_label"
+                android:maxLength="5"
+                android:singleLine="true"
+                android:textColor="@color/red_900"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/bt_next"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:background="@drawable/bt_bg"
+                android:clickable="true"
+                android:padding="5dp"
+                android:text="@string/bt_next"
+                android:textColor="@color/bt_next_text"
+                android:textSize="16sp" />
+            <TextView
+                android:layout_marginRight="15dp"
+                android:id="@+id/bt_show_answer"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toLeftOf="@id/bt_next"
+                android:layout_centerVertical="true"
+                android:layout_gravity="right"
+                android:background="@drawable/bt_bg"
+                android:clickable="true"
+                android:padding="5dp"
+                android:text="@string/bt_answer"
+                android:textColor="@color/bt_next_text"
+                android:textSize="16sp" />
+        </RelativeLayout>
+
+        <TextView
+            android:layout_marginBottom="25dp"
+            android:id="@+id/tv_answer_long"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+</ScrollView>

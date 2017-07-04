@@ -1,0 +1,61 @@
+<!--
+  ~ Copyright (c) 2016. Vv <envyfan@qq.com><http://www.v-sounds.com/>
+  ~
+  ~ This file is part of AndroidReview (Android面试复习)
+  ~
+  ~ AndroidReview is free software: you can redistribute it and/or modify
+  ~  it under the terms of the GNU General Public License as published by
+  ~ the Free Software Foundation, either version 3 of the License, or
+  ~ (at your option) any later version.
+  ~
+  ~  AndroidReview is distributed in the hope that it will be useful,
+  ~  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~  GNU General Public License for more details.
+  ~
+  ~  You should have received a copy of the GNU General Public License
+  ~ along with AndroidReview.  If not, see <http://www.gnu.org/licenses/>.
+  -->
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:focusable="true"
+    android:focusableInTouchMode="true">
+
+    <include layout="@layout/include_toolbar" />
+
+    <android.support.design.widget.TextInputLayout
+
+        android:id="@+id/ti_email_or_qq"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/toolbar"
+        android:padding="20dp">
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/suggest_qq_or_mail"
+            android:maxLength="500"
+            android:textSize="13sp" />
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+
+        android:id="@+id/ti_suggest"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/ti_email_or_qq"
+        android:padding="20dp">
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/suggest_hind_text"
+            android:maxLength="500"
+            android:textSize="13sp" />
+    </android.support.design.widget.TextInputLayout>
+
+
+</RelativeLayout>

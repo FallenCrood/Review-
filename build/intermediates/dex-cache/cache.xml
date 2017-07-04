@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\47199\.gradle\caches\modules-2\files-2.1\cn.bmob.android\bmob-sdk\3.4.5\44e559d18fd5a4826b0a4c0354308213e4f658a2\bmob-sdk-3.4.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="44e559d18fd5a4826b0a4c0354308213e4f658a2">
+        <dex dex="C:\Users\47199\Desktop\dfdfd\Review\AndroidReview-master\app\build\intermediates\pre-dexed\debug\bmob-sdk-3.4.5_8151d5048f3b3ec79c8fcee226ee36cdcccd1535.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\47199\Desktop\dfdfd\Review\AndroidReview-master\app\build\intermediates\exploded-aar\in.srain.cube\ultra-ptr\1.0.11\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a0bdf70123d26dd83d8462d602b3a83a41934cf6">
+        <dex dex="C:\Users\47199\Desktop\dfdfd\Review\AndroidReview-master\app\build\intermediates\pre-dexed\debug\in.srain.cube-ultra-ptr-1.0.11_eb282caac8b32f925715eeafd6ab60b8756da61a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\47199\Desktop\dfdfd\Review\AndroidReview-master\app\build\intermediates\exploded-aar\com.7heaven.ioswidget\iosswitch\0.5\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5b9ece8a3e4cee681a643dfdbf978879d77db538">
+        <dex dex="C:\Users\47199\Desktop\dfdfd\Review\AndroidReview-master\app\build\intermediates\pre-dexed\debug\com.7heaven.ioswidget-iosswitch-0.5_3bd963e89ecb2849379506a85637423069b53858.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\47199\Desktop\dfdfd\Review\AndroidReview-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\47199\Desktop\dfdfd\Review\AndroidReview-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.0_10e33fdd45c5e95492e8b65d9c281cfdcf4a7b56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\47199\Desktop\dfdfd\Review\AndroidReview-master\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="C:\Users\47199\Desktop\dfdfd\Review\AndroidReview-master\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.0_eb3a0e17fcf0cacb3ee71a9be16648f025be2bd0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\47199\Desktop\dfdfd\Review\AndroidReview-master\app\build\intermediates\exploded-aar\com.7heaven.ioswidget\iosswitch\0.5\jars\libs\library_nineoldandroids.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0eae3c3e7f63f0147d0d59712fa5f8064f958ac0">
+        <dex dex="C:\Users\47199\Desktop\dfdfd\Review\AndroidReview-master\app\build\intermediates\pre-dexed\debug\library_nineoldandroids_c82c17a75f3840cb279c588c58e099c6b9ed9692.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\47199\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.4.0\40340c0748190fe897baf7bffbc1b282734294e5\okhttp-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="C:\Users\47199\Desktop\dfdfd\Review\AndroidReview-master\app\build\intermediates\pre-dexed\debug\okhttp-2.4.0_9b93fbf92bd9aedd90db630a0bea68e68bbb4228.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\47199\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.4.0\5b72bf48563ea8410e650de14aa33ff69a3e8c35\okio-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
+        <dex dex="C:\Users\47199\Desktop\dfdfd\Review\AndroidReview-master\app\build\intermediates\pre-dexed\debug\okio-1.4.0_cdf9ec2f11ce07378a26342b44a0b5621f860f59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\47199\Desktop\dfdfd\Review\AndroidReview-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f1fb33d186be46141b64340cfd692df9a8679757">
+        <dex dex="C:\Users\47199\Desktop\dfdfd\Review\AndroidReview-master\app\build\intermediates\pre-dexed\debug\instant-run_49881ceef624f6699aa94bdd364d980265dabd64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\47199\Desktop\dfdfd\Review\AndroidReview-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="860d0a4e0672ee147c2c966e7230e68155cd26a8">
+        <dex dex="C:\Users\47199\Desktop\dfdfd\Review\AndroidReview-master\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_6bc6b91a6d410043e40c67c7afdd5276a6dad6cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\47199\Desktop\dfdfd\Review\AndroidReview-master\app\build\intermediates\exploded-aar\com.github.channguyen\rsv\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d469860a6431289f4be06e5e23a774f57e115966">
+        <dex dex="C:\Users\47199\Desktop\dfdfd\Review\AndroidReview-master\app\build\intermediates\pre-dexed\debug\com.github.channguyen-rsv-1.0.1_bab9dbfccd57b75705358802c86056ccd9c1ed19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\t02\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Users\47199\Desktop\dfdfd\Review\AndroidReview-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0_40f9b7f3974e66d8c6f5b4c6eee6aa9f6db2b5a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\47199\Desktop\dfdfd\Review\AndroidReview-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\47199\Desktop\dfdfd\Review\AndroidReview-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0_1eed94e34c7ba9aaebb13b27c3a8e0ba1f805536.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\47199\Desktop\dfdfd\Review\AndroidReview-master\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d96886efea7cc74fbb3abd0e3b51d5638fc57be0">
+        <dex dex="C:\Users\47199\Desktop\dfdfd\Review\AndroidReview-master\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.1.0_b6cb8e0cc60f37001d83de4840e6345b489d566d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\47199\Desktop\dfdfd\Review\AndroidReview-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="C:\Users\47199\Desktop\dfdfd\Review\AndroidReview-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.0_8e39b2ca1632456d2c3d2b71f1f61b3370ef238b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\47199\Desktop\dfdfd\Review\AndroidReview-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\Users\47199\Desktop\dfdfd\Review\AndroidReview-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.0_51ba9274c83fb27daf5e9be3a679215fbfb1807c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\47199\Desktop\dfdfd\Review\AndroidReview-master\app\libs\logger.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e43a9d88783876df8f8d544e2473339a0a04e03c">
+        <dex dex="C:\Users\47199\Desktop\dfdfd\Review\AndroidReview-master\app\build\intermediates\pre-dexed\debug\logger_32e5b59c211aea422b285e4b3fe399220979c44f.jar" />
+    </item>
+
+</items>
